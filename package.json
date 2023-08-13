@@ -1,0 +1,20 @@
+{
+  "name": "my_milkteashop",
+  "version": "1.0.0",
+  "description": "**特别声明：本项目中的展示图片归奈雪の茶所有。**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinypuppet/nxdc-milktea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinypuppet/nxdc-milktea/issues"
+  },
+  "homepage": "https://github.com/tinypuppet/nxdc-milktea#readme"
+}
