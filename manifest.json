@@ -62,7 +62,12 @@
 			"urlCheck": false,
 			"es6": false
 		},
-		"usingComponents": true
+		"usingComponents": true,
+		"permission": {
+			"scope.userLocation": {
+				"desc": "位置信息将用于预估与店面的距离"
+			}
+		}
 	},
 	"mp-alipay": {
 		"usingComponents": true
